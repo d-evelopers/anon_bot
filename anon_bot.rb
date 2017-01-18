@@ -1,5 +1,5 @@
 def get_phrase
-  ["nice try", "fuck off"].sample
+  ["nice try", "fuck off", "hi"].sample
 end
 
 def anon_bot(boogeyman="bleigh")
